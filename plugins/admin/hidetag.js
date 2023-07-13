@@ -1,5 +1,5 @@
 exports.run = {
-   usage: ['hidetag'],
+   usage: ['htg'],
    use: 'text',
    category: 'admin tools',
    async: async (m, {
